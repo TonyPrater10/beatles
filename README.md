@@ -18,7 +18,7 @@ This repository contains an automated test using Microsoft Playwright and TypeSc
 
 ---
 
-## 🛠 How to Run
+## How to Run
 
 1. Clone this repository
    ```
